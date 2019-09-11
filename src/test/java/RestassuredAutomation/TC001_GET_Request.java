@@ -16,7 +16,7 @@ import static org.codehaus.groovy.tools.shell.util.Logger.io;
 
 public class TC001_GET_Request {
 
-
+// added komentar for a test - github
    @Test
     void getWeatherDetails(){
 
