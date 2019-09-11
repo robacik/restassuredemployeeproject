@@ -1,0 +1,12 @@
+<suite name="Suite" parallel="false">
+
+    <test name="QA">
+
+        <classes>
+
+            <class name="RestassuredAutomation.TC001_GET_Request"/>
+
+        </classes>
+
+    </test>
+</suite>
